@@ -101,7 +101,7 @@ MVA_Github/
 
 - Proposed a **new algorithmic framework (MMSB)** extending Schrödinger Bridges to multiple marginals.  
 - Achieved **state-of-the-art RNA-seq trajectory inference**.  
-- **First scaling of MMSB to image space** for **biological video generation**.  
+- **First scaling of MMSB to image space** for **video generation**.  
 - Research led to:  
   [*Multi-Marginal Temporal Schrödinger Bridge Matching for Video Generation from Unpaired Data*](https://arxiv.org/pdf/2510.01894) — *Submitted to ICLR 2026*.
 
