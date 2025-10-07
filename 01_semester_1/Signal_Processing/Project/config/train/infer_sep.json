@@ -1,0 +1,20 @@
+{
+    "model": {
+        "module": "model.unet_basic",  // Store the model file
+        "main": "UNet",  // The specific model class in the file
+        "args": {}  // Parameters passed to the model class
+    },
+    "dataset": {
+        "module": "dataset.waveform_dataset_enhancement",  // Store the enhancement dataset file
+        "main": "WaveformDataset",  // Concrete class of enhacnement dataset
+        "args": {  // The parameters passed to the dataset class, see the specific enhancement dataset class for details
+            "dataset": "/home/imucs/tmp/UNet_and_Inpainting/data.txt",
+            "limit": 400,
+            "offset": 0,
+            "sample_length": 16384
+        }
+    },
+    "custom": {
+        "sample_length": 16384
+    }
+}

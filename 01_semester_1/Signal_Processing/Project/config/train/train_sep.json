@@ -1,0 +1,62 @@
+{
+    "seed": 0,
+    "description": "...des",
+    "cudnn_deterministic": false,
+    "trainer": {
+        "module": "trainer.trainer_sep",
+        "main": "Trainer",
+        "epochs": 1000,
+        "save_checkpoint_interval": 50,
+        "validation": {
+            "interval": 5,
+            "find_max": true,
+            "custom": {
+                "visualize_audio_limit": 20,
+                "visualize_waveform_limit": 20,
+                "visualize_spectrogram_limit": 20,
+                "sample_length": 16384
+            }
+        }
+    },
+    "model": {
+        "module": "model.unet_basic_sep",
+        "main": "Model",
+        "args": {}
+    },
+    "loss_function": {
+        "module": "model.loss",
+        "main": "mse_loss",
+        "args": {}
+    },
+    "optimizer": {
+        "lr": 0.001,
+        "beta1": 0.9,
+        "beta2": 0.999
+    },
+    "train_dataset": {
+        "module": "dataset.waveform_dataset_sep",
+        "main": "Dataset",
+        "args": {
+            "dataset": "dataset/file_paths_train_small_sep.txt",
+            "limit": null,
+            "offset": 0,
+            "sample_length": 16384,
+            "mode": "train"
+        }
+    },
+    "validation_dataset": {
+        "module": "dataset.waveform_dataset_sep",
+        "main": "Dataset",
+        "args": {
+            "dataset": "dataset/file_paths_train_small_sep.txt",
+            "limit": 400,
+            "offset": 0,
+            "mode": "validation"
+        }
+    },
+    "train_dataloader": {
+        "batch_size": 120,
+        "shuffle": true,
+        "pin_memory": true
+    }
+}

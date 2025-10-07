@@ -1,0 +1,20 @@
+{
+    "model": {
+        "module": "model.unet_basic_sep",
+        "main": "Model",
+        "args": {}
+    },
+    "dataset": {
+        "module": "dataset.waveform_dataset_enhancement",
+        "main": "WaveformDataset",
+        "args": {
+            "dataset": "dataset/file_paths_test_infer.txt",
+            "limit": 400,
+            "offset": 0,
+            "sample_length": 16384
+        }
+    },
+    "custom": {
+        "sample_length": 16384
+    }
+}
