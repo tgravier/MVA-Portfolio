@@ -15,7 +15,7 @@
 
 ---
 
-## 🧭 Abstract  
+## Abstract  
 
 This thesis introduces the **Multi-Marginal Schrödinger Bridge (MMSB)** framework, extending the classical two-marginal Schrödinger problem to an arbitrary number of distributions.  
 It bridges **stochastic processes**, **entropy-regularized optimal transport**, and **deep generative modeling**, offering a unified approach to infer continuous trajectories across multiple data distributions.  
@@ -30,7 +30,7 @@ This research directly led to the paper:
 
 ---
 
-## 🧩 Scientific Context  
+## Scientific Context  
 
 The Schrödinger Bridge (SB) problem connects **stochastic control** and **entropy-regularized optimal transport**.  
 Recent advances (Léonard, Föllmer, De Bortoli, Korotin) have shown its deep connections to **diffusion-based generative models**.  
@@ -40,7 +40,7 @@ This work extends the framework to the **multi-marginal setting**, ensuring **th
 
 ---
 
-## 🧠 Contributions  
+## Contributions  
 
 ### Theoretical  
 - Formal definition, existence, and **uniqueness proof** of the **Multi-Marginal Schrödinger Bridge (MMSB)**.  
@@ -71,7 +71,7 @@ This work extends the framework to the **multi-marginal setting**, ensuring **th
 
 ---
 
-## 🧩 Evaluation & Jury Feedback  
+## Evaluation & Jury Feedback  
 
 ### Supervisors — *Prof. Auguste Genovesio & Phd Candidate. Thomas Boyer (ENS Ulm, IBENS)*  
 > “Thomas carried out five months of research on *Dynamical Schrödinger Bridges for video generation from static & unpaired data*.  
@@ -100,7 +100,7 @@ opening new research directions in **video generation**, **biological trajectory
 
 ---
 
-## 🔍 Resources  
+## Resources  
 
 - **Code:** [MMDSBM-pytorch](https://github.com/tgravier/MMDSBM-pytorch)  
 - **Documentation & Videos:** [mmdsbm.notion.site](https://mmdsbm.notion.site/)  
@@ -111,7 +111,7 @@ opening new research directions in **video generation**, **biological trajectory
 
 ---
 
-## 🧭 Keywords  
+## Keywords  
 
 `Multi-Marginal Schrödinger Bridge` · `Optimal Transport` · `Entropy Regularization` ·  
 `Diffusion Processes` · `Trajectory Inference` · `RNA-seq` · `Video Generation` ·  
