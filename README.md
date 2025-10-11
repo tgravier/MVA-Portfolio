@@ -109,22 +109,22 @@ MVA_Github/
 
 ## List of Courses Followed
 
-| Course | Professor(s) | Grade |
-|--------|---------------|-------|
-| Advanced Learning for Text and Graph Data (ALTEGRAD) | Michalis Vazirgiannis | 17.23 |
-| Probabilistic Graphical Models and Deep Generative Models | Pierre Latouche | 17.50 |
-| Convex Optimization | Alexandre d’Aspremont | 17.48 |
-| Time Series Learning | Laurent Oudre | 17.80 |
-| Deep Learning and Signal Processing | Thomas Courtat | 17.50 |
-| Reinforcement Learning | Emmanuel Rachelson | 17.50 |
-| Topological Data Analysis for Imaging and Machine Learning | Frédéric Chazal, Julien Tierny | 14.75 |
-| Computational Statistics | Stéphanie Allassonnière | 14.00 |
-| Kernel Methods for Machine Learning | Julien Mairal, Alessandro Rudi, Michael Arbel | 11.20 |
-| Data Generation in AI by Transport and Denoising | Stéphane Mallat (Collège de France) | 15.50 |
-| Generative Models for Images | Bruno Galerne, Arthur Leclaire | 12.80 |
-| Turing Seminar – Safety and Interpretability of AI | Charbel-Raphaël Segerie | 14.00 |
-| Optimal Transport | Gabriel Peyré | Followed (no exam) |
-| Master Thesis / Research Internship | Auguste Genovesio, Thomas Boyer, Gabriel Peyré | 18.00 |
+| Course | Professor(s) |
+|--------|---------------|
+| Advanced Learning for Text and Graph Data (ALTEGRAD) | Michalis Vazirgiannis |
+| Probabilistic Graphical Models and Deep Generative Models | Pierre Latouche |
+| Convex Optimization | Alexandre d’Aspremont |
+| Time Series Learning | Laurent Oudre |
+| Deep Learning and Signal Processing | Thomas Courtat |
+| Reinforcement Learning | Emmanuel Rachelson |
+| Topological Data Analysis for Imaging and Machine Learning | Frédéric Chazal, Julien Tierny |
+| Computational Statistics | Stéphanie Allassonnière |
+| Kernel Methods for Machine Learning | Julien Mairal, Alessandro Rudi, Michael Arbel |
+| Data Generation in AI by Transport and Denoising | Stéphane Mallat (Collège de France) |
+| Generative Models for Images | Bruno Galerne, Arthur Leclaire |
+| Turing Seminar – Safety and Interpretability of AI | Charbel-Raphaël Segerie |
+| Optimal Transport | Gabriel Peyré |
+| Master Thesis / Research Internship | Auguste Genovesio, Thomas Boyer, Gabriel Peyré |
 
 ---
 
