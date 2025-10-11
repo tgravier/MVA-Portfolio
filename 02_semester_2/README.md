@@ -14,8 +14,8 @@ Each course involved theoretical lectures and a **final project or challenge**, 
 
 ### Courses and Projects Summary  
 
-| Course | Professors | Grade | Project / Focus |
-|--------|-------------|-------|-----------------|
+| Course | Professors | Project / Focus |
+|--------|-------------|-----------------|
 | **Data Generation in AI through Transport and Denoising** | Stéphane Mallat et al. | *EchoCem – Ultrasonic Image Segmentation Challenge* (🥇 1st place / Collège de France) |
 | **Kernel Methods for Machine Learning** | Julien Mairal, Alessandro Rudi, Michael Arbel | *DNA Sequence Classification* using Spectrum & Weighted-Degree kernels |
 | **Generative Modelling for Images** | Bruno Galerne, Arthur Leclaire | *Learning Gradients of Convex Functions with Monotone Gradient Networks (MGN)* |
