@@ -14,17 +14,17 @@ Each course included a final project or hands-on assignment, often in collaborat
 
 ### Courses and Projects Summary
 
-| Course | Professor(s) | Grade | Project / Focus |
+| Course | Professor(s) | Project / Focus |
 |--------|---------------|-------|-----------------|
-| **Advanced Learning for Text and Graph Data (ALTEGRAD)** | Michalis Vazirgiannis | **17.23 / 20** | NLP and Graph ML — *Data Challenge*: achieved 3rd best result among teams from ENS, X, Ponts, Dauphine |
-| **Probabilistic Graphical Models (PGM)** | Pierre Latouche | **17.50 / 20** | *Generative vs Discriminative Models in Medical Imaging* — robustness under adversarial perturbations |
-| **Convex Optimization and Applications in Machine Learning** | Alexandre d’Aspremont | **17.48 / 20** | Theory and implementation of first-order methods for ML (analytical coursework) |
-| **Computational Statistics** | Stéphanie Allassonnière | **14.00 / 20** | *Optimization by Gradient Boosting* — theoretical review and full from-scratch implementation |
-| **Time Series Learning** | Laurent Oudre | **17.80 / 20** | *SigLASSO — Learning Dynamics of Sparsely Observed Interacting Systems* (based on Fermanian et al., 2023) |
-| **Deep Learning & Signal Processing** | Thomas Courtat | **17.50 / 20** | *Source Separation with Wave-U-Net* — reimplemented 1D U-Net for raw waveform separation |
-| **Topological Data Analysis for Imaging and Machine Learning** | Frédéric Chazal & Julien Tierny | **14.75 / 20** | *Paper Review — PersLay: A Neural Network Layer for Persistence Diagrams* |
-| **Reinforcement Learning** | Emmanuel Rachelson | **17.50 / 20** | *Final Project Implementation* — RL agent design and evaluation 
-| **Turing Seminar — Safety and Interpretability of General-Purpose AI** | Charbel-Raphaël Segerie | **14.00 / 20** | *Essay with Rosalie Millner:* “What is the Probability that AI Poses Catastrophic Risks Assuming There Is No Deceptive Alignment?” |
+| **Advanced Learning for Text and Graph Data (ALTEGRAD)** | Michalis Vazirgiannis | NLP and Graph ML — *Data Challenge*: achieved 3rd best result among teams from ENS, X, Ponts, Dauphine |
+| **Probabilistic Graphical Models (PGM)** | Pierre Latouche | *Generative vs Discriminative Models in Medical Imaging* — robustness under adversarial perturbations |
+| **Convex Optimization and Applications in Machine Learning** | Alexandre d’Aspremont | Theory and implementation of first-order methods for ML (analytical coursework) |
+| **Computational Statistics** | Stéphanie Allassonnière | *Optimization by Gradient Boosting* — theoretical review and full from-scratch implementation |
+| **Time Series Learning** | Laurent Oudre | *SigLASSO — Learning Dynamics of Sparsely Observed Interacting Systems* (based on Fermanian et al., 2023) |
+| **Deep Learning & Signal Processing** | Thomas Courtat | *Source Separation with Wave-U-Net* — reimplemented 1D U-Net for raw waveform separation |
+| **Topological Data Analysis for Imaging and Machine Learning** | Frédéric Chazal & Julien Tierny | *Paper Review — PersLay: A Neural Network Layer for Persistence Diagrams* |
+| **Reinforcement Learning** | Emmanuel Rachelson | *Final Project Implementation* — RL agent design and evaluation 
+| **Turing Seminar — Safety and Interpretability of General-Purpose AI** | Charbel-Raphaël Segerie | *Essay with Rosalie Millner:* “What is the Probability that AI Poses Catastrophic Risks Assuming There Is No Deceptive Alignment?” |
 
 ---
 
