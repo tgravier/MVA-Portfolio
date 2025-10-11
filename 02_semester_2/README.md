@@ -16,9 +16,9 @@ Each course involved theoretical lectures and a **final project or challenge**, 
 
 | Course | Professors | Grade | Project / Focus |
 |--------|-------------|-------|-----------------|
-| **Data Generation in AI through Transport and Denoising** | Stéphane Mallat et al. | **15.50 / 20** | *EchoCem – Ultrasonic Image Segmentation Challenge* (🥇 1st place / Collège de France) |
-| **Kernel Methods for Machine Learning** | Julien Mairal, Alessandro Rudi, Michael Arbel | **11.20 / 20** | *DNA Sequence Classification* using Spectrum & Weighted-Degree kernels |
-| **Generative Modelling for Images** | Bruno Galerne, Arthur Leclaire | **12.80 / 20** | *Learning Gradients of Convex Functions with Monotone Gradient Networks (MGN)* |
+| **Data Generation in AI through Transport and Denoising** | Stéphane Mallat et al. | *EchoCem – Ultrasonic Image Segmentation Challenge* (🥇 1st place / Collège de France) |
+| **Kernel Methods for Machine Learning** | Julien Mairal, Alessandro Rudi, Michael Arbel | *DNA Sequence Classification* using Spectrum & Weighted-Degree kernels |
+| **Generative Modelling for Images** | Bruno Galerne, Arthur Leclaire | *Learning Gradients of Convex Functions with Monotone Gradient Networks (MGN)* |
 | **Optimal Transport** | Gabriel Peyré | *Audit (no grade)* | Comprehensive study of transport theory — foundational for my **Master Thesis** and ongoing **research article** |
 
 ---
