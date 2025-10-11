@@ -15,7 +15,7 @@ Each course included a final project or hands-on assignment, often in collaborat
 ### Courses and Projects Summary
 
 | Course | Professor(s) | Project / Focus |
-|--------|---------------|-------|-----------------|
+|--------|---------------|-----------------|
 | **Advanced Learning for Text and Graph Data (ALTEGRAD)** | Michalis Vazirgiannis | NLP and Graph ML — *Data Challenge*: achieved 3rd best result among teams from ENS, X, Ponts, Dauphine |
 | **Probabilistic Graphical Models (PGM)** | Pierre Latouche | *Generative vs Discriminative Models in Medical Imaging* — robustness under adversarial perturbations |
 | **Convex Optimization and Applications in Machine Learning** | Alexandre d’Aspremont | Theory and implementation of first-order methods for ML (analytical coursework) |
